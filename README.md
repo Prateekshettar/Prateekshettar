@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prateekshettar
 - 👀 I’m interested in ML
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C
 
 
 <!---
