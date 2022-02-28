@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prateekshettar
-- 👀 I’m interested in ML
+- 👀 I’m interested in Learning New things
 - 🌱 I’m currently learning C
 
 
